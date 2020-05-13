@@ -1,4 +1,0 @@
-//this comment is used to ignore .txt files
-This file was created
-
-One more edit.
