@@ -1,3 +1,8 @@
+# This is used to ignore files
 new-file.txt
 
+# This is used to ignore folder
 bin/
+
+#This is used to ignore .tmp files
+*.tmp
